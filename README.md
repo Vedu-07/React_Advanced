@@ -1,3 +1,3 @@
-# This Repo COntaines All The Projects I Created To Leard Advanced React Concepts viz
+# This Repo Contains All The Projects I Created To Learn Advanced React Concepts Such As
 
   ### Custom Hooks
